@@ -6,5 +6,6 @@ public class Deneme {
         //github tarafından yolluyorum
         // versıyon 5 yap yola bana
         //hadilennn
+        //ismail baskannnnn branch yapmıs
     }
 }
