@@ -5,5 +5,6 @@ public class Deneme {
         System.out.println("mggmff");
         //github tarafından yolluyorum
         // versıyon 5 yap yola bana
+        //hadilennn
     }
 }
