@@ -3,5 +3,6 @@ public class Deneme {
         System.out.println("merhaba");
         System.out.println("v2 için merhaba");
         System.out.println("mggmff");
+        //github tarafından yolluyorum
     }
 }
